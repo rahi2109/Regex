@@ -43,6 +43,23 @@ You have a test string . Your task is to match the string hackerrank. This is ca
 
 ### Solution
 ```
+/*
+  In order to match the exactlty same word we have to reight same word in reqular expression.
+*/
+Regex Pattern = "hackerrank"
+```
+
+
+## Matching Specific String
+
+### Task
+You have a test string . Your task is to match the string hackerrank. This is case sensitive.
+
+### Solution
+```
+/*
+  In order to match the exactlty same word we have to reight same word in reqular expression.
+*/
 Regex Pattern = "hackerrank"
 ```
 
